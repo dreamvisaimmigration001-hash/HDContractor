@@ -1,0 +1,6 @@
+{
+  "name": "HD Contractor",
+  "description": "Corporate website for HD Contractor Limited, a construction company in Auckland, New Zealand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
